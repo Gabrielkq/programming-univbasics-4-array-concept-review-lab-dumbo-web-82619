@@ -6,7 +6,7 @@ while array[counter] do
     return counter}
   counter += 1
 end
-
+cle
 end
 
 def find_max_value(array)
